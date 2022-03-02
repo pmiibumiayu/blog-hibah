@@ -24,11 +24,12 @@
             <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <h3>Rayon<span>.</span></h3>
+                    <h3>PMII <span>Bumiayu</span></h3>
                     <p>
-                        Jl. Taman Amir Hamzah <br>
-                        Pegangsaan, Menteng<br>
-                        Central Jakarta <br><br>
+                        Jl.Raya Pagojengan<br>
+                        Perum Palm Indah Km 3. D4<br>
+                        Paguyangan, Brebes <br>
+                        Jawa Tengah 52276<br><br>
                         <strong>Phone:</strong> <?= $site_wa; ?><br>
                         <strong>Email:</strong> <?= $site_mail; ?><br>
                     </p>

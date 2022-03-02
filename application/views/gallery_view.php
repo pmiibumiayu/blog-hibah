@@ -14,7 +14,9 @@
     <link href="<?= base_url() ?>assets/frontend/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="<?= base_url() ?>assets/frontend/vendor/aos/aos.css" rel="stylesheet">
@@ -63,8 +65,9 @@
 
                 <div class="section-title">
                     <h2>Gallery</h2>
-                    <h3>Galeri <span>Rayon</span></h3>
+                    <h3>Galeri <span>Komisariat</span></h3>
                     <p>Pergerakan Mahasiswa Islam Indonesia</p>
+                    <p>Arya Suralaya Bumiayu</p>
                 </div><br>
 
                 <!-- <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -80,15 +83,19 @@
 
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
                     <?php foreach ($data->result() as $apost) : ?>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <img src="<?= base_url() . 'assets/backend/images/post/' . $apost->post_image; ?>" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><?php echo date('d M Y', strtotime($apost->post_date)); ?></h4>
-                                <p><?php echo $apost->post_title; ?></p>
-                                <a href="<?= base_url() . 'assets/backend/images/post/' . $apost->post_image; ?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="<?php echo $apost->post_title; ?>"><i class="bx bx-plus"></i></a>
-                                <a href="<?= site_url('post/' . $apost->post_slug); ?>" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <img src="<?= base_url() . 'assets/backend/images/post/' . $apost->post_image; ?>"
+                            class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><?php echo date('d M Y', strtotime($apost->post_date)); ?></h4>
+                            <p><?php echo $apost->post_title; ?></p>
+                            <a href="<?= base_url() . 'assets/backend/images/post/' . $apost->post_image; ?>"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="<?php echo $apost->post_title; ?>"><i class="bx bx-plus"></i></a>
+                            <a href="<?= site_url('post/' . $apost->post_slug); ?>" class="details-link"
+                                title="More Details"><i class="bx bx-link"></i></a>
                         </div>
+                    </div>
                     <?php endforeach; ?>
                 </div>
 
@@ -102,7 +109,8 @@
     <!-- End Footer -->
 
     <div id="preloader"></div>
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
     <!-- Vendor JS Files -->
     <script src="assets/frontend/vendor/aos/aos.js"></script>

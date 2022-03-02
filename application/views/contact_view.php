@@ -14,7 +14,9 @@
     <link href="<?= base_url() ?>assets/frontend/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="<?= base_url() ?>assets/frontend/vendor/aos/aos.css" rel="stylesheet">
@@ -63,8 +65,9 @@
 
                 <div class="section-title">
                     <h2>Contact</h2>
-                    <h3>Kontak<span> Rayon</span></h3>
+                    <h3>Kontak <span>Komisariat</span></h3>
                     <p>Pergerakan Mahasiswa Islam Indonesia</p>
+                    <p>Arya Suralaya Bumiayu</p>
                 </div>
 
                 <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -97,7 +100,9 @@
                 <div class="row" data-aos="fade-up" data-aos-delay="100">
 
                     <div class="col-lg-12 md-6">
-                        <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.4594555269905!2d106.84882731476908!3d-6.202960995509508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f46f1aa68feb%3A0x1025d8e539e14ede!2sNahdlatul%20Ulama%20University%20of%20Indonesia!5e0!3m2!1sen!2sid!4v1634883199767!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+                        <iframe class="mb-4 mb-lg-0"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.6570230515626!2d109.02232711420442!3d-7.279809473561336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f8fc89f0d38b5%3A0x542cef5b8a5286ad!2sKomisariat%20PMII%20Arya%20Suralaya%20Bumiayu!5e0!3m2!1sid!2sid!4v1646186052752!5m2!1sid!2sid"
+                            frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
                     </div>
 
                 </div>
@@ -112,7 +117,8 @@
     <!-- End Footer -->
 
     <div id="preloader"></div>
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
     <!-- Vendor JS Files -->
     <script src="<?= base_url() ?>assets/frontend/vendor/aos/aos.js"></script>

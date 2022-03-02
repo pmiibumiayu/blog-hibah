@@ -14,7 +14,9 @@
     <link href="<?= base_url() ?>assets/frontend/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="<?= base_url() ?>assets/frontend/vendor/aos/aos.css" rel="stylesheet">
@@ -57,8 +59,9 @@
 
                 <div class="section-title">
                     <h2>Documents</h2>
-                    <h3>Dokumen <span>Rayon</span></h3>
+                    <h3>Dokumen <span>Komisariat</span></h3>
                     <p>Pergerakan Mahasiswa Islam Indonesia</p>
+                    <p>Arya Suralaya Bumiayu</p>
                 </div>
 
                 <div class="row">
@@ -70,7 +73,8 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
+                        data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-file"></i></div>
                             <h4><a href="">Draft RTK</a></h4>
@@ -78,7 +82,8 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
+                        data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
                             <h4><a href="">Hasil-hasil Muspimcab</a></h4>
@@ -86,7 +91,8 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
+                        data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-world"></i></div>
                             <h4><a href="">Hasil-hasil Muspimda</a></h4>
@@ -94,7 +100,8 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
+                        data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-slideshow"></i></div>
                             <h4><a href="">Hasil-hasil Muspimnas</a></h4>
@@ -102,7 +109,8 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
+                        data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-arch"></i></div>
                             <h4><a href="">Database Kader</a></h4>
@@ -122,7 +130,8 @@
     <!-- End Footer -->
 
     <div id="preloader"></div>
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
     <!-- Vendor JS Files -->
     <script src="<?= base_url() ?>assets/frontend/vendor/aos/aos.js"></script>

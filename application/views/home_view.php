@@ -14,7 +14,9 @@
     <link href="<?= base_url() ?>assets/frontend/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="<?= base_url() ?>assets/frontend/vendor/aos/aos.css" rel="stylesheet">
@@ -48,7 +50,8 @@
             <h2><?= $caption_2; ?></h2>
             <div class="d-flex">
                 <a href="#about" class="btn-get-started scrollto">Get Started</a>
-                <a href="https://www.youtube.com/watch?v=EvOiPmEtAPQ" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+                <a href="https://www.youtube.com/watch?v=EvOiPmEtAPQ" class="glightbox btn-watch-video"><i
+                        class="bi bi-play-circle"></i><span>Watch Video</span></a>
             </div>
         </div>
     </section><!-- End Hero -->
@@ -64,7 +67,8 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h4 class="title"><a href="">Adaptif</a></h4>
-                            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                            <p class="description">Anggota PMII bisa menyesuaikan dengan situasi dan kondisi yang ada
+                                sebagai bentuk profesionalitas organisasi</p>
                         </div>
                     </div>
 
@@ -72,7 +76,8 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                             <div class="icon"><i class="bx bx-file"></i></div>
                             <h4 class="title"><a href="">Komunikatif</a></h4>
-                            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                            <p class="description">Anggota PMII bisa menyampaikan apa yang dirasakan dengan bahasa yang
+                                mudah diterima</p>
                         </div>
                     </div>
 
@@ -80,7 +85,8 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
                             <h4 class="title"><a href="">Inovatif</a></h4>
-                            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                            <p class="description">Anggota PMII selalu menjadi penggagas ide yang relevan dari
+                                permasalahan yang ada</p>
                         </div>
                     </div>
 
@@ -88,7 +94,8 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
                             <div class="icon"><i class="bx bx-world"></i></div>
                             <h4 class="title"><a href="">Kolaboratif</a></h4>
-                            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                            <p class="description">Anggota PMII saling bekerja sama untuk mencapai tujuan yang
+                                dicita-citakan bersama</p>
                         </div>
                     </div>
 
@@ -104,19 +111,21 @@
 
                 <div class="section-title">
                     <h2>About</h2>
-                    <h3>Pengurus <span>Rayon</span></h3>
+                    <h3>Pengurus <span>Komisariat</span></h3>
                     <p>Pergerakan Mahasiswa Islam Indonesia</p>
+                    <p>Arya Suralaya Bumiayu</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
                         <img src="assets/frontend/img/about1.jpg" class="img-fluid" alt="">
                     </div>
-                    <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center"
+                        data-aos="fade-up" data-aos-delay="100">
                         <h3>VISI</h3>
                         <p class="fst-italic">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                            magna aliqua.
+                            Terwujudnya PMII Bumiayu yang unggul dalam intelektualitas dan profesionalitas serta dinamis
+                            dalam menjadi solusi terhadap permasalahan yang ada.
                         </p>
                         <h3>MISI</h3>
                         <ul>
@@ -124,28 +133,33 @@
                                 <i class="bx bx-shield"></i>
                                 <div>
                                     <h5>Adaptif</h5>
-                                    <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
+                                    <p>Anggota PMII bisa menyesuaikan dengan situasi dan kondisi yang ada
+                                        sebagai bentuk profesionalitas organisasi
+                                    </p>
                                 </div>
                             </li>
                             <li>
                                 <i class="bx bx-key"></i>
                                 <div>
                                     <h5>Komunikatif</h5>
-                                    <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                                    <p>Anggota PMII bisa menyampaikan apa yang dirasakan dengan bahasa yang
+                                        mudah diterima</p>
                                 </div>
                             </li>
                             <li>
                                 <i class="bx bx-laptop"></i>
                                 <div>
                                     <h5>Inovatif</h5>
-                                    <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                                    <p>Anggota PMII selalu menjadi penggagas ide yang relevan dari
+                                        permasalahan yang ada</p>
                                 </div>
                             </li>
                             <li>
                                 <i class="bx bx-user-plus"></i>
                                 <div>
                                     <h5>Kolaboratif</h5>
-                                    <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                                    <p>Anggota PMII saling bekerja sama untuk mencapai tujuan yang
+                                        dicita-citakan bersama</p>
                                 </div>
                             </li>
                         </ul>
@@ -310,18 +324,19 @@
                 <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
                     <div class="swiper-wrapper">
                         <?php foreach ($testimonial->result() as $test) : ?>
-                            <div class="swiper-slide">
-                                <div class="testimonial-item">
-                                    <img src="<?= base_url() . 'assets/backend/images/testi/' . $test->testimonial_image; ?>" class="testimonial-img" alt="">
-                                    <h3><?= $test->testimonial_name; ?></h3>
-                                    <h4><?= $test->testimonial_org; ?></h4>
-                                    <p>
-                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                        <?= $test->testimonial_content; ?>
-                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                    </p>
-                                </div>
+                        <div class="swiper-slide">
+                            <div class="testimonial-item">
+                                <img src="<?= base_url() . 'assets/backend/images/testi/' . $test->testimonial_image; ?>"
+                                    class="testimonial-img" alt="">
+                                <h3><?= $test->testimonial_name; ?></h3>
+                                <h4><?= $test->testimonial_org; ?></h4>
+                                <p>
+                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                    <?= $test->testimonial_content; ?>
+                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                </p>
                             </div>
+                        </div>
                         <?php endforeach; ?>
                         <!-- End testimonial item -->
 
@@ -515,7 +530,8 @@
     <!-- End Footer -->
 
     <div id="preloader"></div>
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
     <!-- Vendor JS Files -->
     <script src="assets/frontend/vendor/aos/aos.js"></script>
